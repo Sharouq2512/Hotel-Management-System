@@ -1,0 +1,14 @@
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\project01.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\project01.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\project01.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\bin\Debug\net8.0\project01.exe
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\bin\Debug\net8.0\project01.deps.json
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\bin\Debug\net8.0\project01.runtimeconfig.json
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\bin\Debug\net8.0\project01.dll
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\bin\Debug\net8.0\project01.pdb
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\project01.dll
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\refint\project01.dll
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\project01.pdb
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\Desktop\solutions\Hotel Management System\project01\obj\Debug\net8.0\ref\project01.dll
